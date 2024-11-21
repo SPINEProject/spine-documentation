@@ -1,6 +1,5 @@
 ---
 title: Getting started
-layout: page
 nav_order: 2
 ---
 
