@@ -16,20 +16,6 @@ nav_order: 1
 
 ---
 
-## Who are you?
-
-| Task                        | Technical Person | SPINE Administrator | Scientist | Rater |
-|-----------------------------|------------------|---------------------|-----------|-------|
-| [Install SPINE](install-spine.md) | ✅              | ✅                  |           |       |
-| Administer SPINE            |                  | ✅                  |           |       |
-| Manage users                |                  | ✅                  |           |       |
-| Access SPINE                |                  | ✅                  | ✅         | ✅     |
-| Create/Manage Cohort        |                  | ✅                  | ✅         |       |
-| Create/Manage Projects      |                  | ✅                  | ✅         |       |
-| Perform Tasks               |                  |                     |           | ✅     |
-
----
-
 ## Explore SPINE
 
 - [Learn how to install SPINE](install-spine.md)
