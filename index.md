@@ -16,8 +16,15 @@ nav_order: 1
 
 ---
 
+## Getting started
+
+- [Getting Started with SPINE](getting-started.md)
+
+---
+
 ## Explore SPINE
 
 - [Learn how to install SPINE](install-spine.md)
-- [Getting Started with SPINE](getting-started.md)
+- ... 
+
 
