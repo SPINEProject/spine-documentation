@@ -1,5 +1,5 @@
 ---
-title: SPINE User Guide
+title: Home
 layout: home
 ---
 
