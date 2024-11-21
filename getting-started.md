@@ -28,14 +28,17 @@ Welcome to SPINE! This guide will help you begin using the platform.
 
 ---
 
-## Key Tasks in SPINE
+## Who are you?
 
-| Task                       | SPINE Administrator | Scientist | Rater |
-|----------------------------|---------------------|-----------|-------|
-| Create/Manage Cohorts      | ✅                  | ✅         |       |
-| Create/Manage Projects     | ✅                  | ✅         |       |
-| Assign Cases               |                     | ✅         |       |
-| Perform Annotations        |                     |           | ✅     |
+| Task                        | Technical Person | SPINE Administrator | Scientist | Rater |
+|-----------------------------|------------------|---------------------|-----------|-------|
+| [Install SPINE](install-spine.md) | ✅              | ✅                  |           |       |
+| Administer SPINE            |                  | ✅                  |           |       |
+| Manage users                |                  | ✅                  |           |       |
+| Access SPINE                |                  | ✅                  | ✅         | ✅     |
+| Create/Manage Cohort        |                  | ✅                  | ✅         |       |
+| Create/Manage Projects      |                  | ✅                  | ✅         |       |
+| Perform Tasks               |                  |                     |           | ✅     |
 
 ---
 
