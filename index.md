@@ -5,8 +5,6 @@ layout: home
 
 # Welcome to SPINE
 
-You are not just users but valued contributors, playing a vital role in shaping the SPINE platform experience through your feedback, advice, and suggestions, helping us make it more effective for clinical research projects now and in the future.
-
 ---
 
 ## Introduction
@@ -17,7 +15,7 @@ You are not just users but valued contributors, playing a vital role in shaping 
 
 ---
 
-## Roles
+## Who are you?
 
 | Task                        | Technical Person | SPINE Administrator | Scientist | Rater |
 |-----------------------------|------------------|---------------------|-----------|-------|
