@@ -1,6 +1,7 @@
 ---
 title: Getting started
 nav_order: 2
+layout: page
 ---
 
 # Getting Started with SPINE
